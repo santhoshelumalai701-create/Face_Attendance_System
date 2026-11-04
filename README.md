@@ -19,7 +19,6 @@ Python, OpenCV, DeepFace, Pandas, Tkinter
 4. Click **Start Attendance** to begin marking attendance
 
 ## Screenshots
-(drag your images here)
 <img width="872" height="655" alt="image" src="https://github.com/user-attachments/assets/08a12b17-735c-4986-8f33-f5d2b3f3d0dd" />
 <img width="232" height="147" alt="image" src="https://github.com/user-attachments/assets/bf46c0d0-660c-47a1-a220-5d28161e2294" />
 <img width="1182" height="657" alt="Screenshot 2026-11-04 211315_new" src="https://github.com/user-attachments/assets/cecb1756-c053-4591-bbce-97bdcdb8d663" />
